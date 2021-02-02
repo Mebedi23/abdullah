@@ -1,0 +1,56 @@
+.toggle-btn{
+	padding: 10px 30px;
+	color: #fff;
+	cursor: pointer;
+	background: transparent;
+	border: 0;
+	outline: none;
+	position: relative;
+}.
+.#box-1{
+	top: 0;
+	left: 0;
+	position: absolute;
+	width: 110;
+	height: 100%;
+	background: linear-gradient(to right, #ff105f, #ffad06);
+	transition: .5s;
+}
+.box-1{
+	width: 300px;
+	padding: 40px;
+	position: absolute; 
+	top: 55%;
+	left: 70%;
+	transform: translate(-50%, -50%);
+	background: #none;
+	text-align: center; 
+}
+.input-field{
+	border:0;
+	background: none; 
+	display: block; 
+	margin: 20px auto; 
+	text-align: center;
+	border: 2px solid #3498db;
+	padding: 14px 10px;
+	width: 200px;
+	outline: none;
+	color: white; 
+	border-radius: 24px;
+	transition: 0.25s;
+}
+.submit-btn{
+	padding: 10px 30px;
+	color: white;
+	cursor: pointer;
+	background: transparent;
+	border: 2px solid #2ecc71;
+	border-radius:24px;
+	transition:0.20s;
+	outline: none;
+	position: relative;
+}
+#Register{
+	left: 450px;
+}
